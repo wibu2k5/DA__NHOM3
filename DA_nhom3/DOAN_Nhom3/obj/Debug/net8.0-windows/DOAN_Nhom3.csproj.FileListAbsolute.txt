@@ -1,0 +1,16 @@
+C:\Users\Windows\Downloads\DA_nhom3-master\DA_nhom3-master\DOAN_Nhom3\bin\Debug\net8.0-windows\DOAN_Nhom3.exe
+C:\Users\Windows\Downloads\DA_nhom3-master\DA_nhom3-master\DOAN_Nhom3\bin\Debug\net8.0-windows\DOAN_Nhom3.deps.json
+C:\Users\Windows\Downloads\DA_nhom3-master\DA_nhom3-master\DOAN_Nhom3\bin\Debug\net8.0-windows\DOAN_Nhom3.runtimeconfig.json
+C:\Users\Windows\Downloads\DA_nhom3-master\DA_nhom3-master\DOAN_Nhom3\bin\Debug\net8.0-windows\DOAN_Nhom3.dll
+C:\Users\Windows\Downloads\DA_nhom3-master\DA_nhom3-master\DOAN_Nhom3\bin\Debug\net8.0-windows\DOAN_Nhom3.pdb
+C:\Users\Windows\Downloads\DA_nhom3-master\DA_nhom3-master\DOAN_Nhom3\obj\Debug\net8.0-windows\DOAN_Nhom3.Form1.resources
+C:\Users\Windows\Downloads\DA_nhom3-master\DA_nhom3-master\DOAN_Nhom3\obj\Debug\net8.0-windows\DOAN_Nhom3.csproj.GenerateResource.cache
+C:\Users\Windows\Downloads\DA_nhom3-master\DA_nhom3-master\DOAN_Nhom3\obj\Debug\net8.0-windows\DOAN_Nhom3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Downloads\DA_nhom3-master\DA_nhom3-master\DOAN_Nhom3\obj\Debug\net8.0-windows\DOAN_Nhom3.AssemblyInfoInputs.cache
+C:\Users\Windows\Downloads\DA_nhom3-master\DA_nhom3-master\DOAN_Nhom3\obj\Debug\net8.0-windows\DOAN_Nhom3.AssemblyInfo.cs
+C:\Users\Windows\Downloads\DA_nhom3-master\DA_nhom3-master\DOAN_Nhom3\obj\Debug\net8.0-windows\DOAN_Nhom3.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Downloads\DA_nhom3-master\DA_nhom3-master\DOAN_Nhom3\obj\Debug\net8.0-windows\DOAN_Nhom3.dll
+C:\Users\Windows\Downloads\DA_nhom3-master\DA_nhom3-master\DOAN_Nhom3\obj\Debug\net8.0-windows\refint\DOAN_Nhom3.dll
+C:\Users\Windows\Downloads\DA_nhom3-master\DA_nhom3-master\DOAN_Nhom3\obj\Debug\net8.0-windows\DOAN_Nhom3.pdb
+C:\Users\Windows\Downloads\DA_nhom3-master\DA_nhom3-master\DOAN_Nhom3\obj\Debug\net8.0-windows\DOAN_Nhom3.genruntimeconfig.cache
+C:\Users\Windows\Downloads\DA_nhom3-master\DA_nhom3-master\DOAN_Nhom3\obj\Debug\net8.0-windows\ref\DOAN_Nhom3.dll
