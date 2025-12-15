@@ -81,8 +81,6 @@ namespace DOAN_Nhom3
                     LoadFromFile(candidate);
             }
         }
-
-        // Nếu muốn gỡ hẳn panel + nút (thay vì chỉ ẩn), gọi hàm này trong Form1_Load thay cho panel1.Visible = false
         private void RemoveButtonsBar()
         {
             if (btnUndo != null && !btnUndo.IsDisposed) panel1.Controls.Remove(btnUndo);
