@@ -32,7 +32,7 @@ namespace DOAN_Nhom3
             previousText = rtbEditor.Text;
             UpdateUndoRedoButtons();
 
-            // Chặn Undo/Redo/Save mặc định của RichTextBox, để menu xử lý phím tắt
+            // Chặn Undo/Redo/Save mặc định của RichTextBox
             rtbEditor.KeyDown += RtbEditorKeyDown;
 
             // Đảm bảo gõ được
@@ -65,7 +65,7 @@ namespace DOAN_Nhom3
             rtbEditor.LostFocus += (s, e2) => UpdatePlaceholder();
             UpdatePlaceholder();
 
-            // Ẩn thanh nút vì đã có MenuStrip (nếu muốn gỡ hẳn, xem RemoveButtonsBar ở dưới)
+            // Ẩn thanh nút vì đã có MenuStrip
             RemoveButtonsBar();
 
             this.Text = "Trình soạn thảo cơ bản - Undo/Redo (Stack)";
@@ -112,7 +112,7 @@ namespace DOAN_Nhom3
             UpdatePlaceholder();
         }
 
-        // Chỉ chặn phím để không chạy Undo/Redo mặc định của RichTextBox.
+       
         // Hành động sẽ do Menu (ShortcutKeys) gọi qua Click.
         private void RtbEditorKeyDown(object? sender, KeyEventArgs e)
         {
@@ -133,7 +133,7 @@ namespace DOAN_Nhom3
             }
             else if (e.Control && e.KeyCode == Keys.C)
             {
-                // Fix: nếu đang Select All thì copy bản đã bỏ xuống dòng cuối
+       
                 if (IsAllSelected(rtbEditor))
                 {
                     var trimmed = rtbEditor.Text.TrimEnd('\r', '\n');
@@ -195,7 +195,7 @@ namespace DOAN_Nhom3
             bool canUndo = undoStack.Count > 0;
             bool canRedo = redoStack.Count > 0;
 
-            // Nếu panel ẩn thì các nút vẫn tồn tại, nhưng ta check cho chắc
+            // Nếu panel ẩn thì các nút vẫn tồn tại
             if (btnUndo != null && !btnUndo.IsDisposed) btnUndo.Enabled = canUndo;
             if (btnRedo != null && !btnRedo.IsDisposed) btnRedo.Enabled = canRedo;
 
