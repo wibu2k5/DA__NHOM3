@@ -1,0 +1,1 @@
+Trình soạn thảo văn bản tối giản dùng Windows Forms (.NET 8), nhấn mạnh cơ chế Undo/Redo tự cài bằng 2 ngăn xếp (Stack). Ứng dụng có MenuStrip, phím tắt quen thuộc, placeholder “Nhập tại đây…”, “Copy All” không dán thừa dòng trống, và hỗ trợ đuôi file riêng (.nh3) — double‑click file .nh3 sẽ mở bằng chính ứng dụng.
