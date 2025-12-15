@@ -107,7 +107,7 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(1447, 127);
             this.panel1.TabIndex = 1;
-            // (Nếu bạn có panel1_Paint và muốn giữ, thêm lại sau. Không bắt buộc.)
+       
 
             // ========== btnUndo ==========
             this.btnUndo.Location = new System.Drawing.Point(114, 40);
